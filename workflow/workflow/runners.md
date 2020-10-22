@@ -1,0 +1,18 @@
+工作流包括如下任务
+* [shell 脚本](/workflow/workflow/runners/shell.md)
+* [ftp导入hdfs](/workflow/workflow/runners/ftp2hdfs.md)
+* [kafka导入hbase](/workflow/workflow/runners/kafka2hbase.md)
+* [kafka导入hdfs](/workflow/workflow/runners/kafka2hdfs.md)
+* [hdfs导出hbase](/workflow/workflow/runners/hdfs2hbase.md)
+* [hive sql 脚本](/workflow/workflow/runners/hivesql.md)
+* [hive导入hdfs](/workflow/workflow/runners/hive2hdfs.md)
+* [hdfs导出DB\(mysql,postgreSQL,sql server\)](/workflow/workflow/runners/hdfs2db.md)
+* [tstorm任务](/workflow/workflow/runners/customerTstorm.md)
+* [spark任务](/workflow/workflow/runners/spark.md)
+* [mapreduce任务](/workflow/workflow/runners/mapreduce.md)
+* [db导入hdfs](/workflow/workflow/runners/db2hdfs.md)
+* [hdfs导出hive](/workflow/workflow/runners/hdfs2hive.md)
+* [hdfs导出hive-tdsort](/workflow/workflow/runners/hdfs2hive-tdsort.md)
+* [hive导出mysql](/workflow/workflow/runners/hive2mysql.md)
+* [mysql导入hive](/workflow/workflow/runners/mysql2hive.md)
+* [sqlserver导入hive](/workflow/workflow/runners/sqlserver2hive.md) 待更新
