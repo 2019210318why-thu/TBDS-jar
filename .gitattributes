@@ -1,0 +1,4 @@
+jar_new/HiveDemo.jar filter=lfs diff=lfs merge=lfs -text
+jar_new/SparkCoreWordCount.jar filter=lfs diff=lfs merge=lfs -text
+jar_new/hadoopMRWordCount.jar filter=lfs diff=lfs merge=lfs -text
+jar_new/HadoopHDFS.jar filter=lfs diff=lfs merge=lfs -text
